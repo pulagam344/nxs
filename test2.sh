@@ -11,6 +11,7 @@ NODE_IDS=(
   12243975
   11798842
   12364585
+  12073218
 )
 
 # Start infinite loop
