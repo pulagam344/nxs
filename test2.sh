@@ -19,7 +19,7 @@ while true; do
   done
 
   echo "All nodes started. Sleeping for 5 minutes..."
-  sleep 180  # 3 minutes
+  sleep 18000  # 3 minutes
 
   echo "Stopping all Nexus nodes..."
   for PID in "${PIDS[@]}"; do
