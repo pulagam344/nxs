@@ -5,7 +5,7 @@
 NODE_IDS=(11874625)
 # Start infinite loop
 while true; do
-  echo "Starting Nexus nodes..."
+  echo "Starting 1 Nexus nodes..."
 
   # Start each node in background and record PIDs
   PIDS=()
