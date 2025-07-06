@@ -9,7 +9,7 @@ NODE_IDS=(12383014 12383016 12383018 12053540 12202610 12053541 12318900 1205354
 
 # Start infinite loop
 while true; do
-  echo "Starting 135 Nexus nodes..."
+  echo "Starting 135 Nexus nodes 1.1..."
 
   # Start each node in background and record PIDs
   PIDS=()
